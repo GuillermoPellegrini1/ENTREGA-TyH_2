@@ -1,11 +1,10 @@
 # TyHM_2_2026
 ## Entrega Módulos
-### Grupo: La banda de carliotos
+### Grupo: La banda de carlitos
 
-<img src="https://github.com/user-attachments/assets/d6c63e0f-00be-4abb-938d-b877f6479f2b" width="50%">
+<img width="2048" height="2048" alt="Gemini_Generated_Image_8tcda08tcda08tcd" src="https://github.com/user-attachments/assets/58eb8243-5cc5-41dd-8927-3b76069bdaf0" />
 
 [Profesor Ricardo Palma] https://github.com/ricardorpalma/TyHM_2026
 
 ### Tabla
-Modulo 1 
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
